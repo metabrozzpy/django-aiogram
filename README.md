@@ -15,7 +15,7 @@
 ## Installation
 
 1. #### Clone the Template:
-   * `git clone https://github.com/MaximZayats/aiogram-django-template`
+   * `git clone https://github.com/metabrozzpy/django-aiogram`
 
 2. #### Install Requirements
    * `pip install -r requirements.txt`
